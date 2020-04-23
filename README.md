@@ -91,7 +91,7 @@ Please adjust `concentration_estimation.py` w.r.t. your requirements.
 
 ## License
 
-Please refer to [LICENSE.md](LICENSE.md).
+Please refer to [LICENSE.md](https://github.com/MercurialJD/Concentration-Detection/blob/master/LICENSE).
 
 ## Acknowledgements
 
