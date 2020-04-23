@@ -5,7 +5,8 @@ This repo takes advantages of OpenCV and TensorFlow to achieve the goal of conce
 If you prefer Chinese README, please refer to [this file](https://github.com/MercurialJD/Concentration-Detection/blob/master/README_zh.md).
 
 ![demo](https://github.com/MercurialJD/Concentration-Detection/raw/master/img/output.gif)
-**(The original video before being processed is referred from the Internet)**
+
+**Note: The original video before being processed is referred from the Internet**
 
 ## Prerequisites
 

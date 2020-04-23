@@ -3,7 +3,8 @@
 本项目通过使用OpenCV与TensorFlow来达到专注度分析（摄像头/视频部分）的目的。
 
 ![demo](https://github.com/MercurialJD/Concentration-Detection/raw/master/img/output.gif)
-**（原始视频资源来自网络）**
+
+**注意：原始视频资源来自网络**
 
 ## 环境需求
 
