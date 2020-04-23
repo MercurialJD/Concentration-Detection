@@ -91,7 +91,7 @@ python3 concentration_estimation.py --cam 0
 
 ## 许可
 
-请查看[LICENSE.md](LICENSE.md)。
+请查看[LICENSE.md](https://github.com/MercurialJD/Concentration-Detection/blob/master/LICENSE)。
 
 ## 鸣谢
 
