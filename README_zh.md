@@ -15,7 +15,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/MercurialJD/Concentration-Detection.git
 ```
 
 ## 使用

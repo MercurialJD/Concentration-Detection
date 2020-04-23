@@ -15,7 +15,7 @@ This repo takes advantages of OpenCV and TensorFlow to achieve the goal of conce
 ## Installation
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/MercurialJD/Concentration-Detection.git
 ```
 
 ## User's Guidance
