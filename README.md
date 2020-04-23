@@ -1,10 +1,11 @@
 # Concentration Analysis (Camera/Video Part)
 
 This repo takes advantages of OpenCV and TensorFlow to achieve the goal of concentration analysis (camera/video part).
-If you'd like to view Chinese README, please refer to [this file](https://github.com/MercurialJD/Concentration-Detection/blob/master/README_zh.md).
+
+If you prefer Chinese README, please refer to [this file](https://github.com/MercurialJD/Concentration-Detection/blob/master/README_zh.md).
 
 ![demo](https://github.com/MercurialJD/Concentration-Detection/raw/master/img/output.gif)
-**(The video is referred from the Internet)**
+**(The original video before being processed is referred from the Internet)**
 
 ## Prerequisites
 
