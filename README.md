@@ -2,7 +2,7 @@
 
 This repo takes advantages of OpenCV and TensorFlow to achieve the goal of concentration analysis (camera/video part).
 
-![demo](img/output.gif)
+![demo](https://github.com/MercurialJD/Concentration-Detection/blob/master/img/output.gif)
 **(The video is referred from the Internet)**
 
 ## Prerequisites
