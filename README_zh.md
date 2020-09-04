@@ -6,11 +6,11 @@
 
 **注意：原始视频资源来自网络**
 
-## 环境需求
+## 测试环境
 
-- OpenCV
-- TensorFlow
-- Python 3
+- opencv-python 4.2.0.32
+- tensorflow 1.14.0
+- Python 3.6.9
 - 本项目已在Ubuntu 18.04完成测试
 
 ## 安装
