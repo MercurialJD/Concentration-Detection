@@ -8,11 +8,11 @@ If you prefer Chinese README, please refer to [this file](https://github.com/Mer
 
 **Note: The original video before being processed is referred from the Internet**
 
-## Prerequisites
+## Tested Prerequisites
 
-- OpenCV
-- TensorFlow
-- Python 3
+- opencv-python 4.2.0.32
+- tensorflow 1.14.0
+- Python 3.6.9
 - Codes from this repo has been tested on Ubuntu 18.04
 
 ## Installation
